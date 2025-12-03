@@ -5,4 +5,5 @@
 @import "./variables.css";
 
 /* Layout */
-@import "../layout/header.css"
+@import "../layout/header.css";
+@import "../layout/footer.css";
