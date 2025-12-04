@@ -15,9 +15,10 @@ Página de apresentação de perfil profissional como preparador físico e trein
 ---
 
 ### Features
-- Site focado na feito semanticamente, com foco na acessibilidade
 - 100% responsivo
-- Utilizacao de ::before e ::after para criar detalhes visuais
+- Estruturação semântica do HTML para melhorar entendimento, navegação e acessibilidade
+- Foco em acessibilidade, garantindo texto alternativo, hierarquia correta e navegação clara
+- Utilização estratégica de pseudo-elementos **`::before`** e **`::after`** para compor detalhes visuais, evitando markup desnecessário e mantendo o código mais limpo
 
 ---
 
