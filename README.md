@@ -2,8 +2,6 @@
 
 Página de apresentação de perfil profissional como preparador físico e treinador, construída como projeto do curso de HTML e CSS da Origamid. Esse site apresenta seu perfil profissional como preparador físico: sua experiência, formação e contato.
 
-<img width="1904" height="1079" alt="PreviewPreparadorFisico" src="https://github.com/user-attachments/assets/d69c2756-3868-498e-a2b6-7ea0bb5bd9f3" />
-
 🔗 **[Confira o projeto aqui](https://joaovictorvm.github.io/PreparadorFisico/)**
 
 ---
